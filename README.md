@@ -28,6 +28,10 @@ Linux için:
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+## Patika Linkim
+
+[Patika Linkim](https://app.patika.dev/irnasizirum)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
