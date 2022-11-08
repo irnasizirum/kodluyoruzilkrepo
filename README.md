@@ -8,4 +8,4 @@ My GitHub Repo Link : https://github.com/irnasizirum/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 < Linux için: 
-cd kodluyoruzilkrepo code . >
+< cd kodluyoruzilkrepo code . 
